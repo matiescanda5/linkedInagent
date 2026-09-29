@@ -1,0 +1,15 @@
+# ⛔ Datos personales de quien usa la skill. NUNCA commitear.
+**/config/perfil.md
+**/state/
+**/*.local.md
+
+# Reportes de corridas: tienen nombres y mensajes de gente real
+**/reports/
+
+# Backups
+*.bak
+*.bak-*
+
+# Sistema
+.DS_Store
+Thumbs.db

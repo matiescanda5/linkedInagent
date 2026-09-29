@@ -1,0 +1,11 @@
+{
+  "name": "linkedinagent",
+  "owner": { "name": "Mati" },
+  "plugins": [
+    {
+      "name": "linkedin-outreach-agent",
+      "source": "./",
+      "description": "Agente de outreach semanal por LinkedIn, en tu voz y con memoria entre corridas."
+    }
+  ]
+}
