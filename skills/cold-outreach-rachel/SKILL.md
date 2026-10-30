@@ -30,6 +30,20 @@ Los LLM nivelan hacia el promedio: te vuelven uno DE un millon cuando necesitas 
 
 Regla: si despues de investigar no aparece un gancho real y especifico de esa persona, NO se redacta un mensaje generico. Se reporta "sin gancho, no enviar todavia" o se pide un dato a quien opera el agente. Un mensaje generico quema el contacto.
 
+## El orden obligatorio: investigar y presentar angulos ANTES de escribir
+
+No se escribe el texto de entrada. El orden es este y no se saltea:
+
+1. **Investigar a la persona** y juntar puntos PERSONALES verificables (no solo cargo y empresa): de donde viene, que estudio, como nacio su empresa, como vive (ej. cohousing, yoga), podcasts, notas de prensa, posteos recientes, causas, que dice que la inspira. Fuentes: la web de la persona, LinkedIn, podcasts, prensa. Cada dato con su fuente. Lo que no se encontro se dice "no encontre", NUNCA se asume (origen cultural, familia, idioma).
+2. **Presentarle a la persona que opera el agente** (vos), ANTES de redactar nada:
+   - Una lista corta de lo que HACE esa persona (rol, foco, apariciones, temas).
+   - Los puntos personales encontrados, en formato facil de leer, cada uno con su fuente.
+   - Los ANGULOS posibles para entrar, cruzando esos puntos con lo que se sabe del operador (de `config/perfil.md`). Si falta un dato del operador para armar un angulo, preguntarlo.
+3. **El operador elige el angulo** (o propone otro). No se redacta hasta que elija.
+4. **Recien ahi se arma el mensaje** segun el angulo elegido, se muestra y se itera. Nada se envia sin su OK.
+
+Por que este orden: el operador conoce matices que no estan en ningun lado, y elegir el angulo antes de escribir evita quemar el contacto con un gancho flojo. Es lo que hace la diferencia entre un mensaje que parece investigado y uno generico.
+
 ## Los 10 pasos (en orden)
 
 ### 1. Investigar a la persona y usarlo (10 minutos, no mas)
@@ -151,6 +165,19 @@ Regla: si no lo dirias fuera del trabajo, no lo escribas.
 **Warm intro:** ver paso 4, blurb listo para reenviar.
 
 **Follow-up:** no repetir el primer mensaje. Aportar algo nuevo (una novedad, un dato, algo que les sirva) y re-hacer el pedido en una linea.
+
+## Aprendizajes de formato
+
+- **El PREVIEW manda:** es lo que la persona lee antes de abrir. La primera linea tiene que dar ganas de abrir; nada de "I'd love to learn from..." de apertura.
+- Evitar el molde mecanico "Vos hiciste X, yo hago Y". El "Like you, ..." del paso 5 se usa con un punto real y poco obvio, no como formula.
+- Nunca abrir con "Hope you're doing well" / "Espero que estes bien".
+- **Nunca empezar con "I'm [nombre]"** si el canal ya muestra el nombre (LinkedIn, o la firma). Presentarse con lo que HACE, no con el nombre, y firmar con el nombre al final.
+- Ask de reunion flexible: "Would you have 30 min next week? Here are some options: [tu link de calendario]. If none of them work, I'll adapt to your schedule."
+- Si invitas a un evento propio: "I'd like to invite you to [evento]: [link]" + "Like you, I also [punto en comun]" + quien sos en una linea + "Above all, I'd love to meet while I'm here." + firma.
+- Contacto previo con alguien de su equipo: "I spoke with [nombre] from your team a while back" + el update tuyo + el ask concreto.
+- **Asuntos de mail:** estructura "tema: [accion] before [fecha]" (ej. "Taboo to mainstream: 30 min before Nov 15"). Probar 3 opciones por persona.
+- Mails con direccion adivinada (formato del dominio, ej. inicial+apellido@dominio): probar de a una, revisar rebote antes de la siguiente.
+- **Nota de conexion de LinkedIn: 300 caracteres como maximo, contarlos antes de enviar.**
 
 ## Esqueleto (rellenar con tu voz, no como formulario)
 
