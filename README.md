@@ -134,8 +134,9 @@ Cuando le revertís una decisión o reescribís un mensaje, lo guarda **como reg
 | `.../references/experimentos.md` | El loop de aprendizaje |
 | `.../references/programar-corridas.md` | Cuántas corridas, qué día y a qué hora |
 | `.../config/perfil-TEMPLATE.md` | El perfil que se completa solo con el uso |
+| `skills/cold-outreach-rachel/` | El metodo de cold outreach de Rachel Konrad (Draper U): como investigar, estructurar y que cortar en cualquier mensaje en frio |
 | `skills/skill-compartible/` | La skill para convertir tus propios agentes en instaladores (ver abajo) |
-| `dist/*.skill` | Las dos skills empaquetadas para instalar con un botón |
+| `dist/*.skill` | Las skills empaquetadas para instalar con un botón |
 | `install.sh` | El instalador de una línea para Claude Code |
 
 ---

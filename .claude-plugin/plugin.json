@@ -1,9 +1,16 @@
 {
   "name": "linkedin-outreach-agent",
   "version": "1.0.0",
-  "description": "Agente de outreach semanal por LinkedIn: invitaciones, inbox, connection requests en tu voz, follow-ups, experimentos y reporte. Incluye skill-compartible para convertir tus propios agentes en instaladores.",
-  "author": { "name": "Mati" },
+  "description": "Agente de outreach semanal por LinkedIn: invitaciones, inbox, connection requests en tu voz, follow-ups, experimentos y reporte. Incluye cold-outreach-rachel (el metodo de cold outreach de Rachel Konrad, Draper U) y skill-compartible para convertir tus propios agentes en instaladores.",
+  "author": {
+    "name": "Mati"
+  },
   "homepage": "https://github.com/matiescanda5/linkedInagent",
   "repository": "https://github.com/matiescanda5/linkedInagent",
-  "keywords": ["linkedin", "outreach", "networking", "skill"]
+  "keywords": [
+    "linkedin",
+    "outreach",
+    "networking",
+    "skill"
+  ]
 }

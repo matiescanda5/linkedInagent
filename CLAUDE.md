@@ -1,6 +1,6 @@
 # Instrucciones para Claude
 
-Este repo es un **instalador**: contiene el agente de outreach por LinkedIn (`skills/linkedin-outreach-agent/`) y una skill auxiliar (`skills/skill-compartible/`). Si alguien abrio este repo o te lo paso, casi seguro quiere instalar el agente. No hace falta que lo pida con esas palabras.
+Este repo es un **instalador**: contiene el agente de outreach por LinkedIn (`skills/linkedin-outreach-agent/`), el metodo de cold outreach de Rachel Konrad (`skills/cold-outreach-rachel/`, que el agente usa para redactar los mensajes en frio) y una skill auxiliar (`skills/skill-compartible/`). Si alguien abrio este repo o te lo paso, casi seguro quiere instalar el agente. No hace falta que lo pida con esas palabras.
 
 ## Que hacer
 

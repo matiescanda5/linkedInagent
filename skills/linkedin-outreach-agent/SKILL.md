@@ -99,6 +99,8 @@ Cada dato que falta tiene un momento natural en el que hace falta. **Se pregunta
 
 ⛔ **Los textos reales no se saltean ni se suponen.** Sin eso, todo lo que salga firmado por la persona suena a plantilla, y es el unico error que la otra persona nota del otro lado.
 
+⛔ **Para redactar o revisar CUALQUIER mensaje en frio** (nota de invitacion, connection request, InMail, cold email, follow-up), seguir el METODO de la skill `cold-outreach-rachel` que viene con este agente: investigar a la persona, un gancho real y especifico (si no hay gancho, no se manda), lo mejor arriba (BLUF), un solo pedido chico y flexible, cero jerga. La VOZ la pone el perfil de la persona; el METODO lo pone esa skill.
+
 ⛔ **Los dos criterios que deciden todo lo demas** (a quien aceptar y a quien escribirle) **se calibran antes de accionar**, con su propio procedimiento. Ver `references/calibracion.md`.
 
 ---
@@ -245,6 +247,7 @@ No dependen del perfil.
 | `references/navegacion-linkedin.md` | **Lo mas valioso.** Como operar la interfaz sin romperse. |
 | `references/categorias-y-sourcing.md` | Como definir categorias y donde buscar. |
 | `references/plantillas.md` | Esqueletos de mensaje. No son formularios. |
+| skill `cold-outreach-rachel` | **El metodo para escribir cualquier mensaje en frio** (Rachel Konrad, Draper U). Viene con el agente; se activa sola al redactar outreach. |
 | `references/estado-y-reporte.md` | Estructura de estado y formato del reporte. |
 | `references/experimentos.md` | El loop de aprendizaje. |
 | `references/calibracion.md` | **Los dos parametros que deciden todo.** Como calibrar a quien aceptar y a quien escribirle. |

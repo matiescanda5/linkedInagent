@@ -16,7 +16,7 @@ set -euo pipefail
 
 REPO="https://github.com/matiescanda5/linkedInagent"
 DEST="${CLAUDE_SKILLS_DIR:-$HOME/.claude/skills}"
-SKILLS="linkedin-outreach-agent skill-compartible"
+SKILLS="linkedin-outreach-agent cold-outreach-rachel skill-compartible"
 
 SRC=""
 if [ -n "${BASH_SOURCE[0]:-}" ] && [ -f "${BASH_SOURCE[0]}" ]; then
