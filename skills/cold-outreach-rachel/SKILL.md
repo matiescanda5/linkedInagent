@@ -76,6 +76,14 @@ Tenes unos 10 segundos para enganchar. Lo mejor (el dato, el pedido, la novedad)
 - Mal: "Startup emerges from stealth mode". Bien: "Exclusive 1-1 with longevity CEO ahead of FDA approval".
 - La urgencia real es lo que mas falta en pitches y cold mails. Ejemplos de Rachel: "Anand Chandrasekaran said to connect today on corp dev", "Before you hire any other GTM manager, let's talk".
 
+**El asunto es la pieza clave del mail.** Siempre mostrarle el asunto a quien opera el agente (final o 2 a 3 opciones) junto con el cuerpo; nunca mandar con un asunto generico tipo "[Producto], AI coach". Tiene que estar optimizado para la apertura: que la persona piense "no puedo esperar a abrir este mail". Receta:
+1. Especifico a ESA persona, apoyado en su gancho (su post, episodio, charla, inversion).
+2. Curiosidad o promesa concreta, no una descripcion de quien sos.
+3. Corto: idealmente menos de 50 caracteres, para que se lea entero en el celular.
+4. Sin "!", sin mayusculas gritadas, sin "Re:" ni "Fwd:" falsos.
+5. Si hay una ventana real (estas en su ciudad hasta cierta fecha), usarla como urgencia legitima.
+Modelos del tipo que funciona: "Two [producto] coaches, one call?" (a un competidor directo), "[Su dato] + a coffee in [ciudad]?" (su post mas el pedido), "[Rol que vos tenes] in [ciudad] until [fecha]" (el dato que ellos mismos defienden, mas la ventana). Si no hay un angulo propio de la persona para el asunto, probablemente tampoco hay gancho para el mail.
+
 **Cuerpo:** primera oracion con gancho, el mejor dato arriba, terminar rapido.
 
 **Cortar:**
@@ -174,7 +182,9 @@ Regla: si no lo dirias fuera del trabajo, no lo escribas.
 
 **Warm intro:** ver paso 4, blurb listo para reenviar.
 
-**Follow-up:** no repetir el primer mensaje. Aportar algo nuevo (una novedad, un dato, algo que les sirva) y re-hacer el pedido en una linea.
+**Follow-up:** no repetir el primer mensaje. Aportar algo nuevo (una novedad, un dato, algo que les sirva) y re-hacer el pedido en una linea. Esperar al menos 7 dias desde el primer mensaje (salvo que quien opera lo pida antes). Si la persona ya respondio, no es follow-up: es una respuesta pendiente y se le muestra a quien opera.
+
+**Antes de enviar:** revisar CRM, Gmail y el historial para no duplicar a alguien ya contactado por otro canal.
 
 ## Aprendizajes de formato
 
@@ -188,6 +198,22 @@ Regla: si no lo dirias fuera del trabajo, no lo escribas.
 - **Asuntos de mail:** estructura "tema: [accion] before [fecha]" (ej. "Taboo to mainstream: 30 min before Nov 15"). Probar 3 opciones por persona.
 - Mails con direccion adivinada (formato del dominio, ej. inicial+apellido@dominio): probar de a una, revisar rebote antes de la siguiente.
 - **Nota de conexion de LinkedIn: 300 caracteres como maximo, contarlos antes de enviar.**
+
+## Estructura corta (para probar en paralelo a la larga)
+
+Molde de 3 lineas para notas de conexion y mails:
+
+```
+Hi [Nombre], saw your [referencia especifica: entrevista, post, charla, producto].
+I'm building [tu producto], a [descripcion corta] with [cifra verificable].
+In [ciudad] until [fecha], would love to grab coffee / visit your office.
+```
+
+- La referencia sale del estudio profundo (idealmente algo que la persona dijo en una entrevista), no de un halago generico. Sin referencia real, no se usa este molde ni ninguno: "sin gancho, no enviar todavia".
+- La cifra se verifica en vivo antes de enviar.
+- Cierre segun la persona: "coffee" o "visit your office" si tiene oficina en tu ciudad; si no esta ahi, pedir "a quick call" con tu link de calendario. En notas de LinkedIn no va el link; en mail si.
+- Cabe en el limite de caracteres de la nota de conexion: contarlos igual. LinkedIn gratis limita las notas personalizadas por mes, asi que priorizar a quien las recibe.
+- **Registro de la prueba:** anotar por cada envio que estructura salio (corta o larga), canal, fecha y si hubo aceptacion o respuesta. Comparar tras unos 15 a 20 envios por estructura. La larga es el control.
 
 ## Esqueleto (rellenar con tu voz, no como formulario)
 
@@ -218,7 +244,7 @@ Hi [Nombre], [tu linea de bienestar, opcional, una sola].
 - [ ] Un solo carril, un solo pedido, chico y flexible.
 - [ ] Les doy algo que necesitan. No me disculpo por lo que me falta.
 - [ ] Cero jerga, cero "currently", cero adverbios de relleno, cero "My name is", cero "no se si te acordas".
-- [ ] Asunto personal y oportuno, sin "!".
+- [ ] Asunto personal y oportuno, sin "!", que de ganas de abrir el mail de inmediato; se lo mostre a quien opera.
 - [ ] Nombres, empresas y cargos verificados.
 - [ ] Pasa tus reglas duras y tu voz (la de tu perfil). Si vos lo leyeras, no tacharias nada.
 
