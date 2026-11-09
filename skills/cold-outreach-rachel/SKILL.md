@@ -30,6 +30,16 @@ Los LLM nivelan hacia el promedio: te vuelven uno DE un millon cuando necesitas 
 
 Regla: si despues de investigar no aparece un gancho real y especifico de esa persona, NO se redacta un mensaje generico. Se reporta "sin gancho, no enviar todavia" o se pide un dato a quien opera el agente. Un mensaje generico quema el contacto.
 
+## Regla 0: leer el hilo completo ANTES de escribir
+
+Antes de redactar o mandar CUALQUIER mensaje a alguien (frio, follow-up, invitacion), abri la conversacion existente con esa persona (en LinkedIn: el messaging; y revisa tu CRM/notas/mail por su nombre) y lee el hilo ENTERO. El estado guardado del agente (history) NO es fuente confiable: suele quedar desactualizado porque el operador responde a mano.
+
+- Si la persona YA respondio alguna vez: el mensaje sigue esa conversacion (retomar lo ultimo que se dijo, sin volver a presentarte ni a tu empresa). Nunca "thanks for connecting" ni presentacion de cero.
+- Si la charla se movio a otro canal (WhatsApp, mail, call agendada): no escribas por LinkedIn; reportalo para seguir por ese canal.
+- Si la persona pidio un canal ("email me at..."): usa ese canal, no otro.
+- Si ya mandaste 2 mensajes sin respuesta: el tercero solo con una excusa nueva y concreta, avisandolo en el reporte.
+- Despues de leer, actualiza el history con lo que viste.
+
 ## El orden obligatorio: investigar y presentar angulos ANTES de escribir
 
 No se escribe el texto de entrada. El orden es este y no se saltea:
